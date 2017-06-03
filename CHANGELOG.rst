@@ -8,3 +8,4 @@ This project adheres to `Semantic Versioning <http://semver.org/>`__.
 ------------
 
 - Added basic Twitter support
+- Added Travis CI integration
